@@ -10,7 +10,7 @@
     "@saas/tsconfig": "workspace:*"
   },
   "eslintConfig": {
-    "extends": ["config/eslint-config/base.cjs"]
+    "extends": ["@saas/eslint-config/base"]
   },
   "prettier": "@saas/prettier"
 }
