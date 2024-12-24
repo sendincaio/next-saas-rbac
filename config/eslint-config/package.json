@@ -14,6 +14,6 @@
   },
   "prettier": "@saas/prettier",
   "eslintConfig": {
-    "extends": ["./base.js"]
+    "extends": ["./base.cjs"]
   }
 }
